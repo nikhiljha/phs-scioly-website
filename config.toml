@@ -1,4 +1,4 @@
-baseURL = "http://portolascioly.com/"
+baseURL = "/"
 languageCode = "en-us"
 title = "Portola Science Olympiad"
-theme = "hyde-y"
+theme = "hyde"
