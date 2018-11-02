@@ -1,4 +1,4 @@
 baseURL = "/"
 languageCode = "en-us"
 title = "Portola Science Olympiad"
-theme = "hyde"
+theme = "ananke"
